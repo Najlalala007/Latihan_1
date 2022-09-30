@@ -1,2 +1,2 @@
 # Latihan_1
-its for exercise code with pytho
+its for exercise code with python
